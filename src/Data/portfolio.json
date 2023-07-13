@@ -1,0 +1,22 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/Sushi.png",
+      "title": "Sushi Restaurant",
+      "description": "HTML, CSS, Animation",
+      "url": "https://sushicafe.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/ArticleSumm.png",
+      "title": "Summize",
+      "description": "HTML, Tailwind, JavaScript, API",
+      "url": "https://yourownarticlesummarizer.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/RQuiz.png",
+      "title": "React-Quiz",
+      "description": "HTML, CSS, JavaScript, React",
+      "url": "https://rquizzz.netlify.app/"
+    }
+  ]
+}
