@@ -39,8 +39,9 @@ const About = () => {
             technologies on challenging and diverse projects.
           </p>
           <p>
-            I'm a quick learner and have a knack for picking up new technologies
-            quickly
+            My stack: HTML, CSS, Javascript, Tailwind, React, Node, Express, MongoDB, Git, C++ 
+            <br/>
+            Currently learning: Next.js, MUI, Typescript
           </p>
           <p>
             I'm naturally curious and prepetually working on improving my skills
