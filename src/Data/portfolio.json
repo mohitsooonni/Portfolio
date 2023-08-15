@@ -13,10 +13,17 @@
       "url": "https://yourownarticlesummarizer.netlify.app/"
     },
     {
-      "cover": "/portfolio/RQuiz.png",
-      "title": "React-Quiz",
-      "description": "HTML, CSS, JavaScript, React",
-      "url": "https://rquizzz.netlify.app/"
+      "cover": "/portfolio/Magma.png",
+      "title": "3D animated realsatate website",
+      "description": "HTML, CSS, JavaScript",
+      "url": "https://magwebsite.netlify.app"
+    },
+    {
+      "cover": "/portfolio/Magma.png",
+      "title": "Family Golf",
+      "description": "HTML, CSS, JavaScript",
+      "url": "https://family-golfff.netlify.app"
     }
+
   ]
 }
